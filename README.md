@@ -95,10 +95,10 @@ originally a fork of the [Underscore.js library](http://underscorejs.org/).
 
 We'll start by building a template string as we have in the past, but
 instead of concatenation, we'll be using *interpolation*, which is a way
-to replace text in strings using special delimeters.
+to replace text in strings using special delimiters.
 
 In lodash, we can interpolate strings with the `<%= %>`
-delimeter, so let's try it out.
+delimiter, so let's try it out.
 
 ```js
 function postComment() {
@@ -343,3 +343,5 @@ escape HTML, and execute code for more powerful templates.
 ## Resources
 
 - [lodash.template](https://lodash.com/docs#template)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-lodash-templates'>Lodash Templates</a> on Learn.co and start learning to code for free.</p>
